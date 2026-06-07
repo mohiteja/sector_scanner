@@ -1,5 +1,5 @@
 
-1. Run script as python3 nifty50_scanner.py 
+1. Run script as python3 sector_scanner.py csv/CNXIT.csv
 
 2. Provides output in below format 
 
