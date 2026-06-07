@@ -1,6 +1,6 @@
 1. Run script as:
    ```bash
-   python3 sector_scanner.py csv/CNXIT.csv
+   python3 sector_scanner.py csv/indices.csv
    ```
 
 2. Provides output in the following format:
